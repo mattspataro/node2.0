@@ -1,0 +1,20 @@
+{
+  "name": "nodecp",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "cloudmersive-image-api-client": "^1.2.3",
+    "cloudmersive-speech-api-client": "^1.1.4",
+    "cloudmersive-validate-api-client": "^1.1.9",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "formidable": "^1.2.1",
+    "http-errors": "~1.6.3",
+    "jade": "~1.11.0",
+    "morgan": "~1.9.1"
+  }
+}
